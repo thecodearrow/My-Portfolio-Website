@@ -144,9 +144,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 360px) {
 
-			input,textarea{
-				width: 80vw!important;
-			}
+			
 			body, input, select, textarea {
 				font-size: 11pt;
 			}
@@ -3441,7 +3439,10 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 480px) {
-
+			/*input field*/
+			input,textarea{
+				width: 80vw!important;
+			}
 			#header {
 				display: block;
 				padding: 0 2em;
