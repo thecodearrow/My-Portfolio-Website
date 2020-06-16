@@ -6,7 +6,7 @@ import LeetCodeProblemsCount from "./LeetCodeProblemsCount"
 import CodeChefProblemsCount from "./CodeChefProblemsCount"
 import * as serviceWorker from './serviceWorker';
 
-
+/*
 ReactDOM.render(
   <React.StrictMode>
     <LeetCodeProblemsCount />
@@ -20,7 +20,7 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('codechef')
 );
-
+*/
 
 
 
