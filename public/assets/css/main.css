@@ -3915,3 +3915,35 @@ input, select, textarea {
 			}
 
 		}
+
+
+
+#gratina{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 90%;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: #4f53b5;
+}
+#attendance{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 90%;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color:#4b4fac;
+}
+#echo{
+	position: relative;
+	top:100px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 90%;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: #484aa3;
+}
